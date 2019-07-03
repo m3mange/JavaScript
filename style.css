@@ -1,0 +1,63 @@
+body{
+    height: 95%;
+    width: 95%;
+    position: center;
+    margin: 1% auto;
+    border: 1px solid black;
+    background: #fff;
+}
+
+#rgbBox{
+    height: 50%;
+    width: 45%;
+    position: relative;
+    left: 1%;
+    /*top: 50%;*/
+    margin-top: 1%;
+    /*margin: 1% auto;*/
+    border: 1px solid black;
+    background: #fff;
+    
+}
+
+#mainBox{
+    height: 50%;
+    width: 45%;
+    position: relative;
+    left: 700px;
+    bottom: 120px;
+   /* margin: 1% auto;*/
+    border: 1px solid black;
+    background: #fff;
+    
+}
+
+#blueBox{
+    height: 50%;
+    width: 50%;
+    left: 10%;
+    /*position: left;*/
+    /*margin: 1% auto;*/
+    border: 1px solid black;
+    background: #00F;
+}
+
+#greenBox{
+    height: 50%;
+    width: 50%;
+    left: 1%;
+    /*position: left;*/
+    /*margin: 1% auto;*/
+    border: 1px solid black;
+    background: #0A8A0A;
+}
+
+#redBox{
+    height: 50%;
+    width: 50%;
+    left: 1%;
+    /*position: left;*/
+    /*margin: 1% auto;*/
+    border: 1px solid black;
+    background: #F00;
+}
