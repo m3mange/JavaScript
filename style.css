@@ -21,11 +21,12 @@ body{
 }
 
 #mainBox{
-    height: 50%;
-    width: 45%;
+    height: 185px;
+    width: 550px;
     position: relative;
     left: 700px;
-    bottom: 120px;
+    
+    bottom: 180px;
    /* margin: 1% auto;*/
     border: 1px solid black;
     background: #fff;
@@ -35,29 +36,36 @@ body{
 #blueBox{
     height: 50%;
     width: 50%;
-    left: 10%;
+    
+    margin-top: 2%;
+    margin-left: 2%;
     /*position: left;*/
     /*margin: 1% auto;*/
     border: 1px solid black;
     background: #00F;
-}
+    }
 
 #greenBox{
     height: 50%;
     width: 50%;
-    left: 1%;
+    
+    margin-top: 2%;
+    margin-left: 2%;
     /*position: left;*/
     /*margin: 1% auto;*/
     border: 1px solid black;
     background: #0A8A0A;
+    
 }
 
 #redBox{
     height: 50%;
     width: 50%;
-    left: 1%;
+    margin-top: 2%;
+    margin-left: 2%;
     /*position: left;*/
     /*margin: 1% auto;*/
     border: 1px solid black;
     background: #F00;
+    
 }
